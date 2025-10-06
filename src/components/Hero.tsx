@@ -13,7 +13,7 @@ const Hero = () => {
           className="absolute inset-0 w-full h-full object-cover"
         >
           <source
-            src="../../../Home_video.mp4"
+            src="https://res.cloudinary.com/dscn0os4j/video/upload/v1759776245/Home_video_rstgfr.mp4"
             type="video/mp4"
           />
           Your browser does not support the video tag.
